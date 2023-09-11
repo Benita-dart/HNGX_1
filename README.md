@@ -1,16 +1,23 @@
-# hngx_1
+# My Slack Flutter App
 
-A new Flutter project.
+This is a Flutter app that displays a user profile with a link to open a GitHub page. It is a simple example of a mobile app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get the app up and running on your local development environment.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+- An IDE of your choice (e.g., Android Studio, Visual Studio Code) with Flutter and Dart plugins.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/BenitaR-png/my-slack-flutter-app.git
+   ```
+
+   ###Navigate to the project directory:
+   cd:
