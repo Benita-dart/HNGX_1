@@ -51,6 +51,6 @@ This app uses the webview_flutter to handle web view functionality.
 
 ## Virtualized Display of App
 ```bash
-device=pixel7&osVersion=13.0&scale=75)https://appetize.io/app/5tasnmofyq253nri7lxt5ueotq?device=pixel7&osVersion=13.0&scale=75
+https://appetize.io/app/5tasnmofyq253nri7lxt5ueotq?device=pixel7&osVersion=13.0&scale=75
 
    
